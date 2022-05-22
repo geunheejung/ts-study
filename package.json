@@ -1,0 +1,25 @@
+{
+  "name": "ts-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && npx ts-node src/index.ts",
+    "tslint": "tslint -c tslint.json 'src/**/*.ts'"
+  },
+  "repository": "https://github.com/geunheejung/ts-study.git",
+  "author": "geunheejung <geunhee0212@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.25.0",
+    "@typescript-eslint/parser": "^5.25.0",
+    "eslint": "^8.16.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2",
+    "ts-node": "^10.8.0",
+    "tslint": "^6.1.3",
+    "tslint-config-airbnb": "^5.11.2",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.6.4"
+  }
+}
