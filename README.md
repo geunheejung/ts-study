@@ -1,0 +1,1 @@
+[Record Type 메모](https://www.evernote.com/shard/s480/sh/470487d8-1f9b-4317-82de-804778b63f8d/)
